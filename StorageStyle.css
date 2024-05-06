@@ -1,0 +1,19 @@
+body {
+  color: black;
+  background-color: rgb(74, 115, 102);
+  /* background-image: url("first_image.jpg"); */
+}
+
+li {
+  color: whitesmoke;
+  font-size: medium;
+  font-family: sans-serif;
+}
+
+.background_image {
+  opacity: 0.1;
+}
+
+.button:hover {
+  cursor: pointer;
+}
